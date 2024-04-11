@@ -8,8 +8,6 @@ I´m a Data Science student, passionate about technology, and always seeking new
 - 🎓 &nbsp; Food Engenieer with experience in food industry, research, teaching and consulting.
 - 💼 &nbsp; I'm currently looking for opportunities in the Data field.
 
-### 
-
 ### Languages I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -32,18 +30,36 @@ I´m a Data Science student, passionate about technology, and always seeking new
 
 
 
+## Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Rentatools e_commerce</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://private-user-images.githubusercontent.com/106086225/290536186-127e831e-52b7-48f0-ad06-0e33cc6a72d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4NDE2NDcsIm5iZiI6MTcxMjg0MTM0NywicGF0aCI6Ii8xMDYwODYyMjUvMjkwNTM2MTg2LTEyN2U4MzFlLTUyYjctNDhmMC1hZDA2LTBlMzNjYzZhNzJkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxMVQxMzE1NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZjY3MzQ5MGYwOGZiNzcwYTk1ZGIzZWVjNDg4NDMyYmVmZTExMjYzNTM4NTllYzdlNjE5NDBhODA2YWYyMWQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0EGA9t1c5XmcHiRsRY39gF9YxfJ5e74QUJCKhyt_9Uo" width="400" alt="Curso básico android"></a>
+<p>
+  
+<a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
-<!--
-**mmir22/mmir22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<p>Rentatools brinda un servicio de alquiler de herramientas para industria y particulares que quieran disponer de manera ágil herramientas escpecificas por un tiempo determinado y sin tener que realizar inversiones costosas.</p>
+</div>
+                                                                                      
+</td>
 
-Here are some ideas to get you started:
+<td width="50%">
+               <br>
+<h3 align="center"></h3>
+<div align="center">                                       
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p>
+
+</p>
+</p></p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
