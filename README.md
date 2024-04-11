@@ -1,12 +1,14 @@
-## Hi there 👋, I´am Marcelo
+## Hi there 👋, I´m Marcelo
 I´m a Data Science student, passionate about technology, and always seeking new challenges to solve problems.
 
 ### About me
 
-- 🌱 &nbsp; Learning Artificial Intelligence and Data Science at <a href="https://immune.institute/" target="_blank"><b>IMMUNE Technology Institute</b></a> , Madrid. 
+- 🌱 &nbsp; Currently, studying Artificial Intelligence and Data Science at <a href="https://immune.institute/" target="_blank"><b>IMMUNE Technology Institute</b></a> , Madrid. 
 - 🤔 &nbsp; Passioante about Food Science and Sensory & Consumer Science.
-- 🎓 &nbsp; Food Engenieer with experience in food industry, research, teaching and consulting
+- 🎓 &nbsp; Food Engenieer with experience in food industry, research, teaching and consulting.
 - 💼 &nbsp; I'm currently looking for opportunities in the Data field.
+
+### 
 
 ### Languages I use
 
@@ -22,6 +24,11 @@ I´m a Data Science student, passionate about technology, and always seeking new
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+### Connect with me
+<a href="https://www.linkedin.com/in/marcelomiraballes/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 
