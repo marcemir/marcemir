@@ -25,12 +25,12 @@ I´m a Data Science student, passionate about technology, and always seeking new
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/marcelomiraballes/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
+&nbsp;
+&nbsp;
 
-
-## Projects
+### Projects
 <table>
 <tr>
 <td width="50%">
