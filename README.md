@@ -31,35 +31,36 @@ I´m a Data Science student, passionate about technology, and always seeking new
 &nbsp;
 
 ### Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Rentatools e_commerce</h3>
-<div align="center">
-<a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank"><img src="https://github.com/Legc15/ProyectoIntegradorDH/assets/106086225/127e831e-52b7-48f0-ad06-0e33cc6a72d1" alt="RentaTools home img"></a>
-<p>
-  
-<a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
 
-</p>
-<p>Rentatools brinda un servicio de alquiler de herramientas para industria y particulares que quieran disponer de manera ágil herramientas escpecificas por un tiempo determinado y sin tener que realizar inversiones costosas.</p>
-</div>
-                                                                                      
-</td>
 
-<td width="50%">
-               <br>
-<h3 align="center"></h3>
-<div align="center">                                       
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center; width:50%">
+      <h3>Rentatools e_commerce</h3>
+      <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+        <img src="https://github.com/Legc15/ProyectoIntegradorDH/assets/106086225/127e831e-52b7-48f0-ad06-0e33cc6a72d1" alt="RentaTools home img" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Rentatools offers a convenient tool rental service for both industries and individuals, enabling quick access to specialized tools for a specified period without the need for costly investments.</p>
+    </td>
+    <td style="text-align:center; width:50%">
+      <h3>Exploratory Data Analysis (EDA) of Portuguese Wine</h3>
+      <a href="https://github.com/marcemir/wine" target="_blank">
+        <img src="https://images.pexels.com/photos/3756623/pexels-photo-3756623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>This repository contains a Jupyter notebook that presents an Exploratory Data Analysis (EDA) of a dataset consisting of physicochemical properties and quality (sensory) data for Portuguese "vinho verde" white and red wine samples.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
-<p>
 
-</p>
-</p></p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
