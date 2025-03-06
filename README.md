@@ -30,25 +30,25 @@ I´m a Data Science student, passionate about technology, and always seeking new
 &nbsp;
 &nbsp;
 
-### Projects
 
+### Projects
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center; width:50%">
-      <h3>Rentatools e_commerce</h3>
+    <td style="text-align:center; width:50%; vertical-align:top;">
+      <h3>Crime Prediction in Montevideo</h3>
       <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
-        <img src="https://github.com/Legc15/ProyectoIntegradorDH/assets/106086225/127e831e-52b7-48f0-ad06-0e33cc6a72d1" alt="RentaTools home img" height="250">
+        <img src="https://images.pexels.com/photos/1464230/pexels-photo-1464230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Delitos Montevideo pic" height="250">
       </a>
       <p>
-        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+        <a href="https://github.com/marcemir/CrimenesMontevideo" target="_blank">
           <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
-      <p>Rentatools offers a convenient tool rental service for both industries and individuals, enabling quick access to specialized tools for a specified period without the need for costly investments.</p>
+      <p>This project focuses on the development of a Machine Learning model to predict crime risk in the city of Montevideo, Uruguay. Using advanced data analysis techniques, feature engineering, and model optimization, the goal is to create a tool that supports strategic decision-making to improve public safety.</p>
     </td>
-    <td style="text-align:center; width:50%">
-      <h3>Exploratory Data Analysis (EDA) of Portuguese Wine</h3>
+    <td style="text-align:center; width:50%; vertical-align:top;">
+      <h3>Exploratory Data Analysis of Portuguese Wine</h3>
       <a href="https://github.com/marcemir/wine" target="_blank">
         <img src="https://images.pexels.com/photos/3756623/pexels-photo-3756623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="250">
       </a>
@@ -60,7 +60,33 @@ I´m a Data Science student, passionate about technology, and always seeking new
       <p>This repository contains a Jupyter notebook that presents an Exploratory Data Analysis (EDA) of a dataset consisting of physicochemical properties and quality (sensory) data for Portuguese "vinho verde" white and red wine samples.</p>
     </td>
   </tr>
+
+  <tr>
+    <td style="text-align:center; width:50%; vertical-align:top;">
+      <h3>Rentatools e_commerce</h3>
+      <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+        <img src="https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="RentaTools home img" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Rentatools offers a convenient tool rental service for both industries and individuals, enabling quick access to specialized tools for a specified period without the need for costly investments.</p>
+    </td>
+    <td style="text-align:center; width:50%; vertical-align:top;">
+      <h3>Predicting Term Deposit Subscriptions</h3>
+      <a href="https://github.com/marcemir/MLAdvancedProject" target="_blank">
+        <img src="https://images.pexels.com/photos/3943714/pexels-photo-3943714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>This project focuses on predicting whether bank clients will subscribe to term deposits using advanced Machine Learning techniques. The dataset used contains information from previous marketing campaigns, as well as socioeconomic data and client characteristics.</p>
+    </td>
+  </tr>
 </table>
 
 <br>
-
