@@ -1,12 +1,11 @@
-## Hi there 👋, I´m Marcelo
-I´m a Data Science student, passionate about technology, and always seeking new challenges to solve problems.
+## Hi, I'm Marcelo 👋
 
-### About me
+**Data Scientist & Food Engineer** focused on **Sensory & Consumer Science** and **AI/ML**. 
 
-- 🌱 &nbsp; Currently, studying Artificial Intelligence and Data Science at <a href="https://immune.institute/" target="_blank"><b>IMMUNE Technology Institute</b></a> , Madrid. 
-- 🤔 &nbsp; Passioante about Food Science and Sensory & Consumer Science.
-- 🎓 &nbsp; Food Engenieer with experience in food industry, research, teaching and consulting.
-- 💼 &nbsp; I'm currently looking for opportunities in the Data field.
+- 📍 Based in **Madrid, Spain** (open to EU remote/hybrid/onsite)
+- 🎓 **M.Sc. Artificial Intelligence & Data Science** — IMMUNE Technology Institute (2024)
+- 🧪 10+ years in **Food Science & Consumer Insights** (research, teaching, consulting)
+- 🔎 Interests: **consumer insights**, **social media intelligence**, **artifical intelligence**
 
 ### Languages I use
 
@@ -33,7 +32,8 @@ I´m a Data Science student, passionate about technology, and always seeking new
 
 ### Projects
 
-<table style="width:100%">
+<table style="width:100%">  
+  
   <tr>
     <td style="text-align:center; width:50%; vertical-align:top;">
       <h3>Crime Prediction in Montevideo</h3>
@@ -46,6 +46,34 @@ I´m a Data Science student, passionate about technology, and always seeking new
         </a>
       </p>
       <p>This project focuses on the development of a Machine Learning model to predict crime risk in the city of Montevideo, Uruguay. Using advanced data analysis techniques, feature engineering, and model optimization, the goal is to create a tool that supports strategic decision-making to improve public safety.</p>
+    </td>
+        <td style="text-align:center; width:50%; vertical-align:top;">
+      <h3>Gym Tracker</h3>
+      <a href="https://github.com/marcemir/gym-tracker" target="_blank">
+        <img src="https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?_gl=1*4kxanr*_ga*NDk3NTQyMjE1LjE3NTQ3NTQxNjU.*_ga_8JE65Q40S6*czE3NTQ3NTQxNjUkbzEkZzEkdDE3NTQ3NTQxNjkkajU2JGwwJGgw" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>A lightweight, powerful, and 100% client-side web application to log and analyze gym workouts. Built with HTML, Tailwind CSS, and JavaScript ES6+, it runs entirely in the browser with no backend, storing data locally via localStorage. </p>
+    </td>
+  </tr>
+  
+  <tr>
+        </td>
+    <td style="text-align:center; width:50%; vertical-align:top;">
+      <h3>Predicting Term Deposit Subscriptions</h3>
+      <a href="https://github.com/marcemir/MLAdvancedProject" target="_blank">
+        <img src="https://images.pexels.com/photos/3943714/pexels-photo-3943714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>This project focuses on predicting whether bank clients will subscribe to term deposits using advanced Machine Learning techniques. The dataset used contains information from previous marketing campaigns, as well as socioeconomic data and client characteristics.</p>
     </td>
     <td style="text-align:center; width:50%; vertical-align:top;">
       <h3>Exploratory Data Analysis of Portuguese Wine</h3>
@@ -73,19 +101,7 @@ I´m a Data Science student, passionate about technology, and always seeking new
         </a>
       </p>
       <p>Rentatools offers a convenient tool rental service for both industries and individuals, enabling quick access to specialized tools for a specified period without the need for costly investments.</p>
-    </td>
-    <td style="text-align:center; width:50%; vertical-align:top;">
-      <h3>Predicting Term Deposit Subscriptions</h3>
-      <a href="https://github.com/marcemir/MLAdvancedProject" target="_blank">
-        <img src="https://images.pexels.com/photos/3943714/pexels-photo-3943714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="250">
-      </a>
-      <p>
-        <a href="https://github.com/mmir22/RentaTools_e-commerce" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>This project focuses on predicting whether bank clients will subscribe to term deposits using advanced Machine Learning techniques. The dataset used contains information from previous marketing campaigns, as well as socioeconomic data and client characteristics.</p>
-    </td>
+
   </tr>
 </table>
 
